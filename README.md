@@ -1,6 +1,7 @@
 -  meu nome è karlos
 - estou estudndo alura
 - estou me desenvolvendo na linguagen
+E isso tamo juntuu
 
 <!---
 3capadeitei/3capadeitei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
